@@ -4,6 +4,7 @@ layout: test
 nav_order: 2
 description: "테스트 페이지입니다."
 permalink: /test
+parent: Posts
 ---
 
 # Why this test is important
