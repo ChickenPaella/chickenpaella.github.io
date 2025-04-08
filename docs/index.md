@@ -4,6 +4,7 @@ layout: home
 nav_order: 1
 description: "Home"
 permalink: /
+has_children: true
 ---
 
 # ChickenPaella's lazy blog
