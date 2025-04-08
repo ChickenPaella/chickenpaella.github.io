@@ -3,4 +3,9 @@ description: Lazy blog
 theme: just-the-docs
 
 url: https://chickenpaella.github.io
+just_the_docs:
+  collections:
+    posts:
+      output: true
+      permalink: /posts/:path/
 
