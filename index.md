@@ -8,7 +8,6 @@ has_children: true
 ---
 
 # ChickenPaella's lazy blog
-## 안녕하세요!
-여기는 저의 소소한 TMI들과 공부 내용들을 담는 공간입니다. 전세계 어느 누구든지 환영합니다. 
+Chat GPT를 적극적으로 활용해서 작성하는 게으른 블로그입니다.
 
 Github : https://github.com/ChickenPaella
