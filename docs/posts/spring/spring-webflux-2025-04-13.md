@@ -1,5 +1,5 @@
 ---
-title: [Spring WebFlux] 핵심 개념과 올바른 사용 방식 정리
+title: Spring WebFlux 핵심 개념과 올바른 사용 방식 정리
 parent: Spring 
 nav_order: 1
 date: 2025-04-13
