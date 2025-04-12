@@ -1,6 +1,6 @@
 ---
 title: 공부는 안 재밌고, GPT랑 얘기하는 건 왜 재밌을까?
-parent: Posts
+parent: 자기계발
 nav_order: 1
 date: 2025-04-11
 tags: [자기이해, ChatGPT, 공부, 블로그쓰기]
