@@ -1,6 +1,6 @@
 ---
 title: Spring
-nav_order: 2
+nav_order: 1
 parent: Posts
 has_children: true
 ---
